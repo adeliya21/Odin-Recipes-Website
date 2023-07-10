@@ -5,6 +5,6 @@ A simple webpage made during the foundations course on the Odin Project. The web
 
 ## Links
 
-- [Live site] (https://adeliya21.github.io/odin-recipes)
+- [Live site](https://adeliya21.github.io/odin-recipes)
 
-- [Link to Assignment] (https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
+- [Link to Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
